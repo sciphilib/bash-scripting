@@ -1,0 +1,1 @@
+The script backs up the directory specified as an argument on a schedule. Recursively checks the last time the file was modified. 
